@@ -1,8 +1,3 @@
-# Born2beRoot, notes
-
-Created by: Natalie
-Created time: January 9, 2024 5:08 PM
-
 # Born2beRoot - a peak into the basics of system administration🖥️
 
 ## ✅Chapter 1 - Important words and expressions:
