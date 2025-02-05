@@ -386,6 +386,8 @@ Broadcast message from nholbroo@nholbroo42 (pts/0) (Tue Jan  9 19:46:21 2024):
 
 ```
 
+### How is the script built up?
+
 ### #!/bin/bash
 
 - Means Shebang. It tells the system what interpreter to use to execute the
