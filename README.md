@@ -952,3 +952,5 @@ These are the commands used during the evaluation:
 - `sudo systemctl enable cron.service`: Enables the cron service.
 - `sudo systemctl is_enabled cron.service`: Checks if the cron service is enabled.
 - `sudo vim /etc/pam.d/common-password`: Opens the PAM password configuration file in the vim text editor.
+
+*This project was finished Feb 27th 2024.*
